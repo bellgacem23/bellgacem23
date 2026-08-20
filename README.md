@@ -1,7 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=1&pause=1000&color=F5E9E2&center=true&vCenter=true&width=600&height=70&lines=Belgacem+Chaibi" alt="Belgacem Chaibi" />
-  </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=1&pause=1000&color=0B3D91&center=true&vCenter=true&width=600&height=70&lines=Belgacem+Chaibi" alt="Belgacem Chaibi" />  </h1>
   
   <h2>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2000&pause=500&color=9B8FA5&center=true&vCenter=true&width=400&height=40&lines=Data+Scientist;AI+Engineer;Generative+AI+Specialist;RAG+Developer" alt="Job Titles" />
